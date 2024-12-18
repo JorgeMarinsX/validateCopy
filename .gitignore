@@ -1,0 +1,5 @@
+.env
+*.csv
+.ruff_cache/
+__pycache__/
+df/

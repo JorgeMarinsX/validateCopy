@@ -1,0 +1,5 @@
+stanza
+streamlit
+nltk
+python-dotenv
+pandas
